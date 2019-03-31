@@ -1,1 +1,1 @@
-# word_guess_game
+# psychic_game
